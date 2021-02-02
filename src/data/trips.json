@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../Assets/images/travel-1.jpg",
+    "alt": "Image-1",
+    "name": "Somewhere in the world",
+    "button": "View Destination"
+  },
+  {
+  "img": "../Assets/images/travel-2.jpg",
+  "alt": "Image-2",
+  "name": "Somewhere in the world",
+  "button": "View Destination"
+  },
+  {
+    "img": "../Assets/images/travel-3.jpg",
+    "alt": "Image-3",
+    "name": "Somewhere in the world",
+    "button": "View Destination"
+  },
+  {
+    "img": "../Assets/images/travel-4.jpg",
+    "alt": "Image-4",
+    "name": "Somewhere in the world",
+    "button": "View Destination"
+  }
+]
